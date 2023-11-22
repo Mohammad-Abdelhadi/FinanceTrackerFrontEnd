@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.16fc3d66.css",
-    "main.js": "/static/js/main.5dca81cb.js",
+    "main.css": "/static/css/main.b18505b5.css",
+    "main.js": "/static/js/main.e9b3a2c2.js",
     "static/media/diamond.svg": "/static/media/diamond.28420c14690308cd9457ef2a79545e54.svg",
     "static/media/splash.gif": "/static/media/splash.8c9a16e7eeef87a61081.gif",
     "static/media/man.png": "/static/media/man.085b86509e482aa66e0e.png",
@@ -25,7 +25,6 @@
     "static/media/userIcon.svg": "/static/media/userIcon.6d0e62de79a27d5c55eac4ffee755aff.svg",
     "static/media/home.svg": "/static/media/home.019e02215fb183ac7e9338893ebbd71e.svg",
     "static/media/createBack.svg": "/static/media/createBack.3b3661634c8d24aa6c5afdc862d53ded.svg",
-    "static/media/onboardingback.svg": "/static/media/onboardingback.997c922c8c1876c8f3ea.svg",
     "static/media/dollar-coin-svgrepo-com.svg": "/static/media/dollar-coin-svgrepo-com.75bc1afa755000e6925fd4fd96506b10.svg",
     "static/media/wallet.svg": "/static/media/wallet.e76eb48657085a450cede8f7d5ceb92d.svg",
     "static/media/message.svg": "/static/media/message.618ed0317b1ce828df2698231e298fbe.svg",
@@ -40,11 +39,11 @@
     "static/media/dots.svg": "/static/media/dots.d8d02f5a0758e81b708fcb3376cc2e77.svg",
     "static/media/ThreeDot.svg": "/static/media/ThreeDot.939324b2ea1c4feeca5aea7157b16d33.svg",
     "static/media/Filter.svg": "/static/media/Filter.052bccf460c04b02ae3bce99adf36c99.svg",
-    "main.16fc3d66.css.map": "/static/css/main.16fc3d66.css.map",
-    "main.5dca81cb.js.map": "/static/js/main.5dca81cb.js.map"
+    "main.b18505b5.css.map": "/static/css/main.b18505b5.css.map",
+    "main.e9b3a2c2.js.map": "/static/js/main.e9b3a2c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.16fc3d66.css",
-    "static/js/main.5dca81cb.js"
+    "static/css/main.b18505b5.css",
+    "static/js/main.e9b3a2c2.js"
   ]
 }
