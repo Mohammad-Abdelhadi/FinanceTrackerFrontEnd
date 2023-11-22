@@ -17,8 +17,6 @@ const Onboarding = () => {
             className="d-flex align-items-center flex-column onboarding-container"
             style={{
                backgroundImage: `url(${backgrounblue})`,
-               backgroundRepeat: "no-repeat",
-               backgroundSize: "cover",
             }}
          >
             <img src={man} className="man__img" alt="#" />

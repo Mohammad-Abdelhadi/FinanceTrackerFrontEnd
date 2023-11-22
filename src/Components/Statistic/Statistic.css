@@ -1,7 +1,10 @@
 #stat-container{
     width: 32%;
-    border: 5px solid;
-    box-shadow: 2px 33px 84px -1px;}
+      border: 5px solid;
+margin : 10px 0;
+    
+box-shadow: 2px 4px 16px -1px;
+}
 .doughnut-chart{
     width: 350px;
      height: 300px;

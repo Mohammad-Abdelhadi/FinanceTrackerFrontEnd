@@ -25,15 +25,22 @@
         cursor: pointer;
         text-decoration: none;
     }
-    .onboarding-container{
-        background-image: url(../../Images/onboardingback.svg);
-        height:500px;
+    .onboarding-container {
         max-width: 425px;
-     
+          border: 5px solid;
+margin : 10px 0;
+        
+box-shadow: 2px 4px 16px -1px;
+
+        height: 115vh;
+        background-image: url(http://localhost:3000/static/media/onboardingback.997c922….svg);
+        background-size: 120% 484px;
+        background-repeat: no-repeat;
+    
     }
     .man__img{
      margin-top: 4rem ; 
-      width: 120%;
+      width: 100%;
       margin-right: 2.5rem;
     }
     .sign__in__link{
