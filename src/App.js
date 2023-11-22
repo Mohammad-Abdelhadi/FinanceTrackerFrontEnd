@@ -33,7 +33,12 @@ function App() {
       location.pathname === "/signup";
 
    return (
-      <div className="App">
+<div className="App" style={{
+  width: '100%',
+  textAlign: 'center',
+  display: 'flex',
+  justifyContent: 'center'
+}}>
          <Routes>
             <Route path="/" element={<Splash />} />
 

@@ -8,17 +8,19 @@
     position: relative;
 
 }
-.navbar{
-    background-color: #ffffff !important;
-    padding: 1.2rem 0 1.2rem 0;
-    max-width: 425px;
-    
+
+.navbar {
+
+    width: 421px;
+    margin-left: 464px;
 }
 .plus{
+ 
     position: absolute;
     left: 9rem;
-    bottom: 0.1rem;
-    width:130px;
+    bottom: -0.9rem;
+    width: 130px;
+
 }
 .chart{
     margin-right:2rem;

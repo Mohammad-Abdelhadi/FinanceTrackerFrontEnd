@@ -7,6 +7,12 @@
 
      font-family: 'Poppins', sans-serif;
   }
+  .app{
+   
+display: flex;
+justify-content: center;
+width: 100%;
+  }
 
   /* Main Colors */
   :root {
@@ -19,7 +25,9 @@
      --black: #000000;
 
   }
-
+body{
+   background-color: red;
+}
   .spiner {
      position: absolute;
      width: 100%;

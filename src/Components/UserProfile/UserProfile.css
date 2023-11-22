@@ -1,6 +1,8 @@
 .user__profile__container {
-   max-width: 425px;
-}
+   width: 32%;
+   height: 120vh;
+   border: 5px solid;
+   box-shadow: 2px 33px 84px -1px;}
 
 .user__profile__top {
    background-image: url(../../Images/userBackground.svg);
